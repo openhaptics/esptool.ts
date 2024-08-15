@@ -1,3 +1,8 @@
+# esptool.ts is now archived! Use [`esptool-js`](https://github.com/espressif/esptool-js)
+
+> [!CAUTION]
+> Official [`esptool-js`](https://github.com/espressif/esptool-js) is now written in TypeScript, and good API, with support for more mainstream ESP chips, making this repository unnecessary.
+
 # esptool.ts — TypeScript port of esptool
 
 This implementation is used in the [SenseShift Web Flasher](https://docs.senseshift.io/docs/firmware/web-flasher). Forked and modified from [`toitware/esptool.js`](https://github.com/toitware/esptool.js).
